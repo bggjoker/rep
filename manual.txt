@@ -2,3 +2,4 @@ Text info
 New manual
 
 !
+some new text
